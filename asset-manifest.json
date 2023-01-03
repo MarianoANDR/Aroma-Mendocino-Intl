@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarianoANDR/aroma-mendocino-intl/static/css/main.fbc8b293.css",
+    "main.js": "/MarianoANDR/aroma-mendocino-intl/static/js/main.49121194.js",
+    "static/media/vineyard.jpg": "/MarianoANDR/aroma-mendocino-intl/static/media/vineyard.20d114e7d256fb531a96.jpg",
+    "static/media/favicon.ico": "/MarianoANDR/aroma-mendocino-intl/static/media/favicon.e44fc0ea03781deba07d.ico",
+    "index.html": "/MarianoANDR/aroma-mendocino-intl/index.html",
+    "main.fbc8b293.css.map": "/MarianoANDR/aroma-mendocino-intl/static/css/main.fbc8b293.css.map",
+    "main.49121194.js.map": "/MarianoANDR/aroma-mendocino-intl/static/js/main.49121194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc8b293.css",
+    "static/js/main.49121194.js"
+  ]
+}
